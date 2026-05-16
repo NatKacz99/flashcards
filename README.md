@@ -119,5 +119,3 @@ Learning using labeled data.
 * Multilingual flashcard generation
 * Streaming responses in the UI
 * Deploy the application on Hugging Face Spaces
-
-MIT License
